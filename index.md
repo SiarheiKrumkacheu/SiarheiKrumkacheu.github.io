@@ -2,28 +2,21 @@
 
 
 
-### ОБО МНЕ
+### ABOUT ME
 
-- учился в гомельском областном лицее с физико математическим уклоном. 
-  (Гомель, 2006 - 2008)
-- учился в Белорусский государственный университет трансорта по специальности инженер электромеханик. 
-  (Гомель, 2008 - 2013)
-- переехал и работаю в локомотивном депо Минск мастером. 
-  (Минск, 2013 - 2019)
-- служба в армии. 
-  (Могилев, 2013 - 2014)
-- учился в БГУ по специальности инженер программист. 
-  (Минск, 2017 - 2018)
-- курсы Unity с поддержкой C#. 
-  (Минск, IT - academy, 2018 - 3 месяца)
-- курсы C#. 
-  (Минск, Центр обучающих технологий, 2018 - 3 месяца)
+- studied in the Gomel regional lyceum with a physico-mathematical bias. (Gomel, 2006-2008)
+- studied in the Belarusian State University of Transport,  specialty electrician engineer. (Gomel, 2008 - 2013)
+- Moved and working at Minsk Locomotive Depot as a master. (Minsk, 2013 - 2019)
+- Military service. (Mogilyov, 2013 - 2014)
+- studied in BSU,  specialty software engineer. (Minsk, 2017 - 2018)
+- Unity courses with C # support. (Minsk, IT - academy, 2018 - 3 months)
+- C # courses. (Minsk, Center for Educational Technologies, 2018 - 3 months)
 
-### ИНТЕРЕСЫ
+### INTERESTS
 
-Если есть свободное от работы и учебы время:
-  - учусь в игре на электро гитаре 
-  - стрельба из лука
+In his free time from work and study:
+  - learn to play electric guitar
+  - archery
 
 ### Контакты
 
