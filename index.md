@@ -18,6 +18,6 @@ In his free time from work and study:
   - learn to play electric guitar
   - archery
 
-### Контакты
+### 
 
 
